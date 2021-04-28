@@ -111,6 +111,7 @@ Esta é uma linha de código em HTML.
 ~~~
 
 ```
+Exemplo de trecho de código
 
 ~~~javascript
 Esta é uma linha de código em Javascript.
@@ -123,3 +124,21 @@ Esta é uma linha de código em PHP.
 ~~~html
 Esta é uma linha de código em HTML.
 ~~~
+
+
+* ### **Tabela**
+```
+Coluna01  | Coluna02
+--------- | ------
+Exemplo 01 | Dada 01
+Exemplo 02 | Dada 02
+Exemplo 03 | Dada 03
+Exemplo 04 | Dada 04
+```
+Coluna01  | Coluna02
+--------- | ------
+Exemplo 01 | Dada 01
+Exemplo 02 | Dada 02
+Exemplo 03 | Dada 03
+Exemplo 04 | Dada 04
+
