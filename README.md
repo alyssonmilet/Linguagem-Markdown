@@ -49,11 +49,11 @@ _texto em itálico_
 
 ```
 Hiperlink
-[https://github.com/alyssonmilet/Linguagem-Markdown>](Material de treinamento da linguagem Markdown)
+[Material de treinamento da linguagem Markdown](https://github.com/alyssonmilet/Linguagem-Markdown)
 
 Link Direto
 <https://github.com/alyssonmilet/Linguagem-Markdown>
 ```
-Este é um hipelink para o [https://github.com/alyssonmilet/Linguagem-Markdown>](Material de treinamento da linguagem Markdown)
+Este é um hipelink para o [Material de treinamento da linguagem Markdown](https://github.com/alyssonmilet/Linguagem-Markdown)
 Esté é um link direto para a página --> <https://github.com/alyssonmilet/Linguagem-Markdown>
 
