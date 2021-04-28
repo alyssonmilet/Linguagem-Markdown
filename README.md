@@ -82,3 +82,44 @@ Lista Ordenada
 1. Item 01
 2. Item 02
 3. Item 03
+
+* ### **Citação ou comentário**
+```
+>Este é um exemplo de *comentário ou citação* na linguagem markdown
+>Para adicionar mais outra linha de comentário pasta apertar Enter
+>Que automaticamente será adicionado outra linha comentada. 
+```
+Exemplo de comentário 
+
+>Este é um exemplo de *comentário ou citação* na linguagem markdown
+>Para adicionar mais outra linha de comentário pasta apertar Enter
+>Que automaticamente será adicionado outra linha comentada. 
+
+* ### **Trecho de código**
+
+```
+~~~javascript
+Esta é uma linha de código em Javascript.
+~~~
+
+~~~php
+Esta é uma linha de código em PHP.
+~~~
+
+~~~html
+Esta é uma linha de código em HTML.
+~~~
+
+```
+
+~~~javascript
+Esta é uma linha de código em Javascript.
+~~~
+
+~~~php
+Esta é uma linha de código em PHP.
+~~~
+
+~~~html
+Esta é uma linha de código em HTML.
+~~~
