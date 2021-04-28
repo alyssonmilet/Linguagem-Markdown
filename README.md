@@ -8,7 +8,7 @@ Markdown é uma linguagem simples de marcação originalmente criada por John Gr
 ### Lista de Comandos em Markdown
 Veremos abaixo uma lista dos comandos mais utilizados e alguns exemplos de uso.
 
-* Titulação
+* ### **Titulação**
 ```
 # Título 1
 ## Título 2
@@ -28,7 +28,7 @@ Exemplos de Titulação
 
 
 
-* Ênfase ao texto
+* ### **Ênfase ao texto**
 ```
 **texto em negrito**
 __texto em negrito__
@@ -45,7 +45,7 @@ __texto em negrito__
 
 _texto em itálico_
 
-* Links
+* ### **Links**
 
 ```
 Hiperlink
@@ -54,6 +54,31 @@ Hiperlink
 Link Direto
 <https://github.com/alyssonmilet/Linguagem-Markdown>
 ```
+Exemplo de Links
+
 Este é um hipelink para o [Material de treinamento da linguagem Markdown](https://github.com/alyssonmilet/Linguagem-Markdown)
+
 Esté é um link direto para a página --> <https://github.com/alyssonmilet/Linguagem-Markdown>
 
+
+* ### **Lista de Itens**
+```
+Lista não ordenada
+* Item 01
+* Item 02
+* Item 03
+
+Lista Ordenada
+1. Item 01
+2. Item 02
+3. Item 03
+```
+Lista não ordenada
+* Item 01
+* Item 02
+* Item 03
+
+Lista Ordenada
+1. Item 01
+2. Item 02
+3. Item 03
